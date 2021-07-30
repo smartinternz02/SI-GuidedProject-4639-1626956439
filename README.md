@@ -1,7 +1,7 @@
 # SI-GuidedProject-4639-1626956439
 
 ## Fake News Analysis using NLP
-In this project, we have built a classifier model that can identify news as real or fake. For this purpose, we have used data from Kaggle.
+In this project, we have built a classifier model using NLP that can identify news as real or fake. For this purpose, we have used data from Kaggle.
 ### Team Members(Team Krypton)
 
 - Uttej Kumar Kandagatla(19BAI1015)
