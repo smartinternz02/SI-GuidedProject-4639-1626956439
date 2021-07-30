@@ -1,6 +1,6 @@
 # SI-GuidedProject-4639-1626956439
 
-This Project is Fake News Analysis using NLP
+## This Project is Fake News Analysis using NLP
 
 Team Members: Pranay Thipirishetty [Team Leader], Uttej Kumar Kandagatla, Potti Sai Pavan Guru Jayanth, Mahalaxmi Bashetty
 
