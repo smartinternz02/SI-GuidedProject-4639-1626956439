@@ -1,13 +1,21 @@
 # SI-GuidedProject-4639-1626956439
 
-## This Project is Fake News Analysis using NLP
+## Fake News Analysis using NLP
 
-Team Members: Pranay Thipirishetty [Team Leader], Uttej Kumar Kandagatla, Potti Sai Pavan Guru Jayanth, Mahalaxmi Bashetty
+### Team Members(Team Krypton)
 
-Project Link: https://drive.google.com/drive/folders/1Yua4Z0VK3XAGV1hLt-iUR1B26FFuwn8a?usp=sharing
+- Uttej Kumar Kandagatla
+- Pranay Thipirishetty 
+- Potti Sai Pavan Guru Jayanth 
+- Mahalaxmi Bashetty
 
-Project Video: https://drive.google.com/file/d/15DJ2-z4iV9kD1CAWScqFFdn3UvY8vw2i/view?usp=sharing
+### Link to Dataset
+[News Dataset](https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing)
 
-Dataset: https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing
+### Link to Project Files
+[Project Files](https://drive.google.com/drive/folders/1Yua4Z0VK3XAGV1hLt-iUR1B26FFuwn8a?usp=sharing)
 
-Experience Video: 
+### Link to Video Demonstration
+[Video Demonstration](https://drive.google.com/file/d/15DJ2-z4iV9kD1CAWScqFFdn3UvY8vw2i/view?usp=sharing)
+
+
