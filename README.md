@@ -4,10 +4,10 @@
 
 ### Team Members(Team Krypton)
 
-- Uttej Kumar Kandagatla
-- Pranay Thipirishetty 
-- Potti Sai Pavan Guru Jayanth 
-- Mahalaxmi Bashetty
+- Uttej Kumar Kandagatla(19BAI1015)
+- Pranay Thipirishetty(19BAI1056)
+- Potti Sai Pavan Guru Jayanth(19BAI1045)
+- Mahalaxmi Bashetty(19BAI1004)
 
 ### Link to Dataset
 [News Dataset](https://drive.google.com/file/d/1mqEpnZho-oUhSsgBnE0fwPsaogkNzKqd/view?usp=sharing)
